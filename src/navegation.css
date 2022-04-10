@@ -1,0 +1,22 @@
+nav {
+  position: -webkit-sticky;
+  position: sticky;
+  top: -1px;
+
+  display: flex;
+  justify-content: space-around;
+  background-color: #1160d6;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.nav {
+  background-color: rgb(27, 178, 189);
+  color: #fff;
+}
+.active {
+  background-color: #4caf50;
+  color: #fff;
+}
